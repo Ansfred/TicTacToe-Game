@@ -83,7 +83,6 @@ public class TicTacToe implements ActionListener {
 		try {
 			Thread.sleep(2000);			// Sleep for 2 secs, that is TICTACTOE GAME title will show for 2 seconds after running and then it will show either X turn or O turn
 		} catch (InterruptedException e) {
-			// TODO auto-generated catch block
 			e.printStackTrace();
 		}
 		
